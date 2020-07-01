@@ -6,5 +6,5 @@ Created on Wed Jul  1 12:36:57 2020
 """
 
 
-list1 = ["christiana"]
+list1 = ["christiana", "Erik"]
 print(list1)
