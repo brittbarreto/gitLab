@@ -25,3 +25,5 @@ for i in rasterList_34:
 
 daniel = "I like chips"    
 brandon =" I also like  chips, like bbq"
+jacob = "I like pretzels"
+brittany = "the saltier the better"
